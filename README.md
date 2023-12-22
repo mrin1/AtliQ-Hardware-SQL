@@ -1,1 +1,0 @@
-# AtliQ-Hardware-SQL
